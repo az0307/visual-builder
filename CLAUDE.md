@@ -16,7 +16,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Structure
 
-```
+```text
 _config.yml          # Jekyll site configuration
 _layouts/            # Page templates: default, post, post-toc, search
 _includes/           # Partials: head, header, side-nav, toc, search, prev-next, javascript, events-toolkit
